@@ -7,3 +7,8 @@ This folder has a collection of interesting problems that I have solved. The pro
 - You may assume that each input would have exactly one solution, and you may not use the same element twice.
 - Tags: array
 - Difficulty: Easy
+
+## 11. Two Sum
+- Given n non-negative integers a1, a2, ..., an , where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of line i is at (i, ai) and (i, 0). Find two lines, which together with x-axis forms a container, such that the container contains the most water.
+- Tags: array
+- Difficulty: Easy
